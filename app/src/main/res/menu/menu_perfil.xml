@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".PerfilAlunoActivity">
+    <item
+        android:title="editar"
+        android:id="@+id/menu_perfil_editar"
+        />
+</menu>
